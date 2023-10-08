@@ -4,6 +4,7 @@ import { Container } from "@mui/material";
 import { Swiper, SwiperSlide } from "swiper/react";
 import SwiperCore, { Pagination, Autoplay, FreeMode } from "swiper";
 import "swiper/css";
+
 SwiperCore.use([Pagination, Autoplay]);
 
 const CustomersReview = () => {
