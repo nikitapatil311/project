@@ -1,6 +1,6 @@
 import React from "react";
 import animation from "../../assets/animations/aboutUsAnimation.gif";
-import { Container, Fade } from "@mui/material";
+import { Container, Fade } from "@mui-material";
 
 const About = () => {
   // Scrolling Bug Fixed
