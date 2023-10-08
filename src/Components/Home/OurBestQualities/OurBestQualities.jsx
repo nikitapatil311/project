@@ -1,5 +1,5 @@
 import { createContext, useContext } from "react";
-import OurServicesAndQualities from "../../OurServicesAndQualities/OurServicesAndQualities";
+import OurServicesAndQualities from "../../ourServicesAndQualities/ourServicesAndQualities";
 import right from "../../../assets/icons/right_symbol.png";
 import { Button, useMediaQuery } from "@mui/material";
 import { groceryContext } from "../../Layout/Layout";

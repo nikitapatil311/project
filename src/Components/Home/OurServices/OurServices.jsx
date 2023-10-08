@@ -1,4 +1,4 @@
-import OurServicesAndQualities from "../../OurServicesAndQualities/OurServicesAndQualities";
+import OurServicesAndQualities from "../../ourServicesAndQualities/ourServicesAndQualities";
 import { useMediaQuery } from "@mui/material";
 import truck from "../../../assets/icons/service_icons/truck.png";
 import headphones from "../../../assets/icons/service_icons/headphones.png";

@@ -1,5 +1,5 @@
 import React, { createContext } from "react";
-import OurServicesAndQualities from "../../OurServicesAndQualities/OurServicesAndQualities";
+import OurServicesAndQualities from "../../ourServicesAndQualities/ourServicesAndQualities";
 import appleStore from "../../../assets/icons/store_icons/appleStore.png";
 import playStore from "../../../assets/icons/store_icons/playStore.png";
 
