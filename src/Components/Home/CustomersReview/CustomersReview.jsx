@@ -3,7 +3,9 @@ import ReviewCard, { ReviewCardSkeleton } from "./ReviewCard/ReviewCard";
 import { Container } from "@mui/material";
 import { Swiper, SwiperSlide } from "swiper/react";
 import SwiperCore, { Pagination, Autoplay, FreeMode } from "swiper";
-import "swiper/css";
+// import "swiper/css";
+import "swiper/swiper-bundle.css"; // Import Swiper CSS
+
 SwiperCore.use([Pagination, Autoplay]);
 
 const CustomersReview = () => {

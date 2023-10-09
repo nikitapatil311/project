@@ -1,7 +1,9 @@
 import { Button, Container, useMediaQuery } from "@mui/material";
 import { ArrowForward } from "@mui/icons-material";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { FreeMode, Navigation, Pagination } from "swiper";
+// import { FreeMode, Navigation, Pagination } from "swiper";
+import SwiperCore, { Pagination, Navigation, FreeMode } from "swiper"; // Update import path
+
 import meat from "../../../assets/categories/meat.png";
 import vegetables from "../../../assets/categories/vagetable.png";
 import fruits from "../../../assets/categories/fruits.png";
