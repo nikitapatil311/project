@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import ReviewCard, { ReviewCardSkeleton } from "./ReviewCard/ReviewCard";
 import { Container } from "@mui/material";
 import { Swiper, SwiperSlide } from "swiper/react";
-import SwiperCore, { Pagination, Autoplay, FreeMode } from "swiper";
+import SwiperCore, { Pagination, Autoplay, FreeMode } from "swiper/core";
 // import "swiper/css";
 import "swiper/swiper-bundle.css"; // Import Swiper CSS
 
